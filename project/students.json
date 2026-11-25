@@ -1,0 +1,46 @@
+[
+    {
+        "id": "121",
+        "name": "amit kumar",
+        "age": 20,
+        "gender": "M",
+        "course": "btech",
+        "semester": 3,
+        "contact": "7665543245",
+        "email": "amit@gmail.com",
+        "marks": 78.0
+    },
+    {
+        "id": "123",
+        "name": "khushi kumari",
+        "age": 20,
+        "gender": "F",
+        "course": "btech",
+        "semester": 3,
+        "contact": "1234567890",
+        "email": "khushi@gmail.com",
+        "marks": 99.0
+    },
+    {
+        "id": "122",
+        "name": "parth",
+        "age": 20,
+        "gender": "M",
+        "course": "btech",
+        "semester": 3,
+        "contact": "0987654321",
+        "email": "parth@gmail.com",
+        "marks": 50.0
+    },
+    {
+        "id": "124",
+        "name": "ganga",
+        "age": 20,
+        "gender": "F",
+        "course": "btech",
+        "semester": 3,
+        "contact": "1230987654",
+        "email": "ganga@gmail.com",
+        "marks": 88.0
+    }
+]
